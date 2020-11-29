@@ -4,7 +4,7 @@
 //  Output:  User views their Chinese astrological birth year information
 //  Purpose: To create a single page app that allows a user to get their birth year astrological information. I used an array instead of a switch statement 
 //  Created by Jocelyn M. Rodriguez on 4/18/20.
-//  Copyright © 2020 CUNY Borough of Manhattan Community College. All rights reserved.
+//  Copyright © 2020 Jocelyn M. Rodriguez. All rights reserved.
 
 import UIKit
 
